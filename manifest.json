@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.0", 
+    "name": "Leads Tracker", 
+    "action": {
+        "default_popup": "chrome.html", 
+        "default_icon": "undraw_Tabs_re_a2bd.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
